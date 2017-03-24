@@ -1,6 +1,8 @@
 info:
-  description: Spring Cloud Samples
-  url: https://github.com/spring-cloud-samples
+  #description: Spring Cloud Samples
+  #url: https://github.com/spring-cloud-samples
+  description: PLOIN Spring Cloud Samples
+  url: PLOIN https://github.com/spring-cloud-samples
 eureka:
   client:
     serviceUrl:
